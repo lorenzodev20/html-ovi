@@ -1,3 +1,2 @@
-# ovi
-Modelo de Objeto Virtual de Informacion OVI
-Link GitHub Pages: https://lorenzorojo12.github.io/ovi/index.html
+# Objeto Virtual de Informacion OVI
+Desplegado en GitHub Pages -> https://lorenzodev20.github.io/html-ovi/
